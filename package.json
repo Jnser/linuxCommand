@@ -1,0 +1,24 @@
+{
+  "name": "linuxcommand",
+  "version": "1.0.0",
+  "description": "learn nodejs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jnser/linuxCommand.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "linux"
+  ],
+  "author": "lxx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jnser/linuxCommand/issues"
+  },
+  "homepage": "https://github.com/Jnser/linuxCommand#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.11.0"
+  }
+}
